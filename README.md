@@ -1,2 +1,2 @@
-# fah-client-pub
-Public repository for Folding@home client issues
+# fah-issues
+Public repository for Folding@home software issues
