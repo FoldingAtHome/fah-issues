@@ -15,7 +15,7 @@ If you require more general support please use the Forum: https://foldingforum.o
 Please follow the template and fill in as much of the template as possible.
 -->
 Your issue may already be reported!
-Please search on the [issue tracker](../) before creating one.
+Please search on the [issue tracker](./) before creating one.
 
 ## Your Environment
 <!---
