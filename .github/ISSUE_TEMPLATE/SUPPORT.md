@@ -7,6 +7,6 @@ When seeking support, please first search for your issue/question in these venue
 * [Official F@H Forum](https://foldingforum.org/index.php)
 * [F@H Discord](https://discord.gg/foldingathome)
 * [F@H Website](https://foldingathome.org/)
-* [Open or closed issues in the F@H GitHub organization](https://github.com/FoldingAtHome/fah-issues/issues?q=is%3Aissue+is%3Aclosed+sort%3Aupdated-desc)
+* Issues in the F@H GitHub organization: [Open](https://github.com/FoldingAtHome/fah-issues/issues?q=is%3Aissue+is%3Aopen+sort%3Acreated-desc) or [Closed](https://github.com/FoldingAtHome/fah-issues/issues?q=is%3Aissue+is%3Aclosed+sort%3Acreated-desc)
 
 GitHub issues are for tracking enhancements and bugs, not general support.
