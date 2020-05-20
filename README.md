@@ -20,7 +20,7 @@ This repository contains all issues related to Folding@Home software.
 ## Support
 
 Looking for help? Check out the
-[instructions for getting support](.github/SUPPORT.md).
+[instructions for getting support](.github/ISSUE_TEMPLATE/SUPPORT.md).
 
 ## Release Types
 
