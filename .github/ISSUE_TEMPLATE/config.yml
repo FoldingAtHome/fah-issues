@@ -1,0 +1,17 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Official F@H Forum 
+    url: https://foldingforum.org/index.php
+    about: For discussion, troubleshooting, and questions. If in doubt, start at the Forum :)
+  - name: F@H Discord
+    url: https://discord.gg/foldingathome
+    about: For general discussion and questions.
+  - name: F@H Twitter
+    url: https://twitter.com/foldingathome
+    about: For contacting researchers directly.
+  - name: F@H Website
+    url: https://foldingathome.org/
+    about: Main website for F@H.
+  - name: F@H Wikipedia
+    url: https://en.wikipedia.org/wiki/Folding@home
+    about: Additional information about F@H on Wikipedia.
