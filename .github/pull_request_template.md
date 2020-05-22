@@ -20,7 +20,6 @@ What type of changes does your code introduce? Please delete options that are no
  - Related GitHub issue:
 - [ ] This change requires a documentation update
  - Related GitHub issue:
-
 ----
 ## Context, Description & Motivation
 <!---
@@ -31,6 +30,7 @@ Describe your change in detail.
 -->
 
 
+
 ----
 ## How Has This Been Tested?
 <!---
@@ -39,8 +39,10 @@ Include details of your testing environment, and the tests you ran to see how yo
 -->
 
 
+
 ----
 ## Screenshots (Optional)
+
 
 
 ----
