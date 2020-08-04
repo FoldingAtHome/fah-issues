@@ -1,7 +1,7 @@
-<p align="center">
+<p>
   <a href="https://foldingathome.org/">
     <img
-      width="64"
+      width="128"
       alt="Folding@home logo"
       src="https://foldingathome.org/logo.png"
     />
