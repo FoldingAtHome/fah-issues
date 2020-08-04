@@ -1,6 +1,7 @@
 <p align="center">
   <a href="https://foldingathome.org/">
     <img
+      width="64"
       alt="Folding@home logo"
       src="https://foldingathome.org/logo.png"
     />
