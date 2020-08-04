@@ -1,9 +1,8 @@
 <p align="center">
   <a href="https://foldingathome.org/">
     <img
-      alt="fah"
-      src="https://foldingathome.org/wp-content/uploads/2016/10/cropped-foldingathome-logo.png"
-      width="400"
+      alt="Folding@home logo"
+      src="https://foldingathome.org/logo.png"
     />
   </a>
 </p>
