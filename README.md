@@ -24,12 +24,11 @@ Looking for help? Check out the
 
 ## Release Types
 
-* **Current**: Stable release of the F@H software. Current version is V7.6.21
-[Download](https://foldingathome.org/alternative-downloads/)
-* **Beta**: Unstable release of the F@H software that is under development.
-[Download](https://foldingathome.org/beta/)
-* **Archive**: Previous releases of F@H software that are no longer supported.
-[Download](https://download.foldingathome.org/releases/)
+* **Current**: Stable release of the F@H software.
+[Download](https://foldingathome.org/download)
+* **Alpha/Beta**: Unstable releasees of the F@H software that are under development.
+[Beta](https://foldingathome.org/beta/)
+[Alpha](https://foldingathome.org/alpha/)
 
 ## Security
 
