@@ -8,14 +8,7 @@
   </a>
 </p>
 
-This repository contains all issues related to Folding@Home software.
-
-# Table of Contents
-
-* [Support](#support)
-* [Release Types](#release-types)
-* [Security](#security)
-
+This repository contains all issues related to the v7 Folding@Home software.
 
 ## Support
 
