@@ -10,7 +10,7 @@
 
 This repository contains all issues related to the v7 Folding@Home software.
 
-## DEPRICATION NOTICE
+## DEPRECATION NOTICE
 
 Please file issues releated to the v8 Folding client web interface at 
 https://github.com/FoldingAtHome/fah-web-client-bastet or for the client
